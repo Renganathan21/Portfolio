@@ -65,7 +65,7 @@ export const DATA = {
       },
       googleDrive: {
         name: "Resume",
-        url: "https://drive.google.com/drive/folders/1yGrvVMcly0ROss7cbzYuCxMRMW_xUWua?usp=drive_link",
+        url: "https://drive.google.com/drive/folders/1Kj_glKFmWpGPq8uxiT5tdZf5VyA6c3UU?usp=sharing",
         icon: Icons.googleDrive,
         navbar: true,
       },
@@ -140,6 +140,22 @@ export const DATA = {
         },
       ],
     },
+    {
+      "title": "Story Forge",
+      "href": "https://epic-story-force.netlify.app/",
+      "dates": "2024 - Present",
+      "active": true,
+      "description": "Developed an AI-powered story creation app using Google Gemini API, allowing users to add characters, select genres, and generate dynamic stories based on provided descriptions.",
+      "technologies": ["React.js", "Express.js", "Framer Motion", "ShadCN", "Google Gemini API"],
+      "links": [
+        {
+          "type": "GitHub",
+          "href": "https://github.com/Renganathan21",
+          "icon": Icons.github
+        }
+      ]
+    },
+    
     {
       title: "Crypto Dashboard",
       href: "https://crypto-dashboard.netlify.app/",
